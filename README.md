@@ -1,6 +1,6 @@
 ![papers_logo2](https://user-images.githubusercontent.com/78480984/143378253-988cab87-969a-41d9-99fd-54540eaff369.png)
 
-# 당신의 일상을 공유해요, PAPERS(페퍼스)📖
+### 당신의 일상을 공유해요, PAPERS(페퍼스)📖
 
 ------
 
